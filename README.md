@@ -1,5 +1,5 @@
-Hi I am Jimmy
+Hi, I am Jimmy.
 
+I am backend engineer and also familiar with web frontend.
 
-## For Recruiter
-* [My resume link](https://docs.google.com/document/d/1K4j3Dh8L4-QRS11P3B_7Wf8TJLGCUCPN4VEQyjbEzbU/edit)
+I am familiar with Python, JavaScript and a little bit C language.
