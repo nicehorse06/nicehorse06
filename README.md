@@ -6,10 +6,9 @@
 
 ## Plan for the next four years
 * Join Google.
-* Ability to contribute to open source.
-    * Django, Flask, Linux kernel
-* Get AWS certification such as SAA and SAP.
 * Familiarity with large backend architectures.
+* Contribute to open source (Django, Flask, Linux kernel).
+* Get AWS certification (SAA, SAP).
 * Be a speaker at a conference.
 
 ## About career
