@@ -5,7 +5,7 @@
 ## Desired Role:
 * Backend engineer (Python, Golang, Node.js)
 * Fullstack engineer (Python, Golang, Node.js) + (React, Vue, Angular)
-* Linux kernel engineer (C)
+* Linux kernel engineer (C, Rust)
 
 ## Desired Company
 > The future target of career is well-known software companies
