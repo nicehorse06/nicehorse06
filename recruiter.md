@@ -8,32 +8,33 @@
 * Linux kernel engineer (C, Rust)
 
 ## Desired Company
-> The future target of career is well-known software companies
+> The future target of career is well-known software companies.
 * `World-renowned companies`: Google, Amazon, Microsoft, Nvidia, Canonical, Yahoo, Carousell, etc.
 * `Well-known companies in Taiwan`: Trend Micro, MediaTek, NovaTek, Synology, KKCompany, etc.
 * `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, 17 live, Dcard, etc.
 
 ## Expectations of the company
+> Be able to join a fast growing team.
 * Have a backend team.
 * Work remotely or work in Taipei (Neihu, Nangang, Xinyi, Songshan preferred).
 * Use public cloud (AWS(preferred), Azure, GCP).
-* Use Kubernetes.
-* Have Products with high traffic demand, distributed system, high scalability, high availability.
-* Have code review process.
-* Have CI/CD process.
+* Better to use Kubernetes.
+* Have products with high traffic demand, distributed system, high scalability, high availability.
+* Have CI/CD and code review process.
 * Subsidized purchase of computer.
-* Have requires to use English.
+* Use English at work.
 * Company name is helpful for resume.
+* Have a clear salary range.
 
 ## Not interesting about
 * Grey industry.
     * Gambling.
-    * Adult site or stream.
+    * Adult site.
 * Unknown startup even with lofty visions.
 * Contract job.
 * Manpower dispatch.
 * Old traditional industry.
 * Need to be team leader or backend team with less than 2 members.
-* Be asked detailed personal information before on board.
-    * Information not related to work like ID number, family member.
+* Be asked non-work-related personal information before on board.
+    * Such as ID numbers, family members.
 * Job description that can not recognize desired company and fit expectations.
