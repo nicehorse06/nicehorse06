@@ -13,13 +13,6 @@
 * `Well-known companies in Taiwan`: Trend Micro, MediaTek, NovaTek, Synology, KKCompany, etc.
 * `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, 17 live, Dcard, etc.
 
-## Not interesting about
-* gambling
-* adult site
-* small and unknown startup
-* unknown global startup
-* contract job
-
 ## Expectations of the company
 * Have a backend team.
 * Work remotely or work in Taipei (Neihu, Nangang, Xinyi, Songshan preferred).
@@ -31,3 +24,16 @@
 * Subsidized purchase of computer.
 * Have requires to use English.
 * Company name is helpful for resume.
+
+## Not interesting about
+* Grey industry.
+    * Gambling.
+    * Adult site or stream.
+* Small or global unknown startup.
+* Contract job.
+* Manpower dispatch.
+* Old traditional industry.
+* Need to be team leader or backend team with less than 2 members.
+* Be asked detailed personal information before on board.
+    * Information not related to work like ID number, family member.
+* Job description that can not recognize desired company and fit expectations.
