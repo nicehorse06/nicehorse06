@@ -29,7 +29,7 @@
 * Grey industry.
     * Gambling.
     * Adult site or stream.
-* Small or global unknown startup.
+* Unknown startup even with lofty visions.
 * Contract job.
 * Manpower dispatch.
 * Old traditional industry.
