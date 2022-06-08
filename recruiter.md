@@ -16,16 +16,19 @@
 ## Expectations of the company
 > Be able to join a fast growing team.
 * Have a backend team.
-* Use public cloud (AWS(preferred), Azure, GCP).
+* Use public cloud (AWS`(preferred)`, Azure, GCP).
 * Better to use Kubernetes.
 * Have products with high traffic demand, distributed system, high scalability, high availability.
 * Have CI/CD and code review process.
 * Subsidized purchase of computer.
+* Allow to use Linux or MacOS to be main developing computer `(bonus)`.
 * Use English at work.
 * Company name is helpful for resume.
-* Work remotely or work in Taipei (Neihu, Nangang, Xinyi, Songshan preferred).
+* Work remotely or work in Taipei `(Neihu, Nangang, Xinyi, Songshan preferred)`.
 * Have a clear salary range.
-* Have ability to judge the treatment of job applicants without referring to last salary.
+* Have ability to judge the treatment of job applicants without referring to last salary `(bonus)`.
+* Having flexible working hours `(bonus)`.
+* Leave system is better than average `(bonus)`.
 
 ## Not interesting about
 * Grey industry.
