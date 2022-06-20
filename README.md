@@ -12,4 +12,6 @@
 * Be a speaker at a conference.
 
 ## About career
+
+* No plans to change jobs at this stage, except for Google, thanks.
 * [For recruiter](https://github.com/nicehorse06/nicehorse06/blob/main/recruiter.md)
