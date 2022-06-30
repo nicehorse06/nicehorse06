@@ -11,7 +11,7 @@
 > The future target of career is well-known software companies.
 * `World-renowned companies`: Google, Amazon, Microsoft, Nvidia, Canonical, Yahoo, Carousell, etc.
 * `Well-known companies in Taiwan`: Trend Micro, MediaTek, NovaTek, Synology, KKCompany, etc.
-* `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, 17 live, Dcard, etc.
+* `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, 17 live, Dcard, iKala, etc.
 
 ## Expectations of the company
 > Be able to join a fast growing team.
