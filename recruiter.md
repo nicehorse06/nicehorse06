@@ -3,15 +3,15 @@
 * [My resume link](https://docs.google.com/document/d/1K4j3Dh8L4-QRS11P3B_7Wf8TJLGCUCPN4VEQyjbEzbU/edit)
 
 ## Desired Role:
-* Backend engineer (Python, Golang, Node.js)
-* Fullstack engineer (Python, Golang, Node.js) + (React, Vue, Angular)
+* Backend engineer (Python, Golang)
+* Fullstack engineer (Python, Golang) + (React, Vue)
 * Linux kernel engineer (C, Rust)
 
 ## Desired Company
 > The future target of career is well-known software companies.
 * `World-renowned companies`: Google, Amazon, Microsoft, Nvidia, Canonical, Yahoo, Carousell, etc.
 * `Well-known companies in Taiwan`: Trend Micro, MediaTek, NovaTek, Synology, KKCompany, etc.
-* `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, 17 live, Dcard, iKala, etc.
+* `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, iKala, etc.
 
 ## Expectations of the company
 > Be able to join a fast growing team.
