@@ -1,6 +1,7 @@
 # Hi, I am Jimmy.
 * A `backend engineer` and also familiar with web frontend.
-* Familiar with `Python`, `JavaScript`.
+* `Python` Expert
+* Familiar with `JavaScript`.
     * Basic understanding of `C`.
     * Plan to learn `Go` and `Rust`.
 
