@@ -2,8 +2,8 @@
 * A `backend engineer` and also familiar with web frontend.
 * `Python` Expert
 * Familiar with `JavaScript`.
-    * Basic understanding of `C`.
-    * Plan to learn `Go` and `Rust`.
+* Basic understanding of `C`.
+* Plan to learn `Go` and `Rust`.
 
 ## Plan for the next four years
 * Join Google.
