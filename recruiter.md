@@ -3,7 +3,7 @@
 * [My resume link](https://docs.google.com/document/d/1K4j3Dh8L4-QRS11P3B_7Wf8TJLGCUCPN4VEQyjbEzbU/edit)
 
 ## Desired Role:
-* Backend engineer (Python, Golang)
+* Backend engineer (Python, Golang, Rust)
 * Fullstack engineer (Python, Golang) + (React, Vue)
 * Linux kernel engineer (C, Rust)
 
@@ -16,14 +16,11 @@
 ## Expectations of the company
 > Be able to join a fast growing team.
 * Have a backend team.
-* Use public cloud (AWS`(preferred)`, Azure, GCP).
-* Better to use Kubernetes.
+* Use public cloud (AWS, Azure, GCP).
 * Have products with high traffic demand, distributed system, high scalability, high availability.
 * Have CI/CD and code review process.
 * Subsidized purchase of computer.
 * Allow to use Linux or MacOS to be main developing computer `(bonus)`.
-* Use English at work.
-* Company name is helpful for resume.
 * Work remotely or work in Taipei `(Neihu, Nangang, Xinyi, Songshan preferred)`.
 * Have a clear salary range.
 * Have ability to judge the treatment of job applicants without referring to last salary `(bonus)`.
@@ -38,7 +35,6 @@
 * Contract job.
 * Manpower dispatch.
 * Old traditional industry.
-* Need to be team leader or backend team with less than 2 members.
 * Be asked non-work-related personal information before on board.
     * Such as ID numbers, family members.
 * Job description that can not recognize desired company and fit expectations.
