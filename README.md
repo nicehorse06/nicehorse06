@@ -6,13 +6,11 @@
 * Plan to learn `Go` and `Rust`.
 
 ## Plan for the next four years
-* Join Google.
 * Familiar with large backend architectures.
 * Contribute to open source ( Django, Flask, Linux kernel ).
 * Get AWS certifications ( SAA, SAP ).
 * Be a speaker at a conference.
 
 ## About career
-
-* No plans to change jobs at this stage, except for Google, thanks.
+* If you have any backend development job vacancies that require skills in Python, Golang, Rust, or C, please provide me with the job descriptions that include the salary range.
 * [For recruiter](https://github.com/nicehorse06/nicehorse06/blob/main/recruiter.md)
