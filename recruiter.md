@@ -1,6 +1,6 @@
 # For Recruiter
 
-* [My resume link](https://docs.google.com/document/d/1K4j3Dh8L4-QRS11P3B_7Wf8TJLGCUCPN4VEQyjbEzbU/edit)
+* [My resume link](https://nicehorse06.github.io/nicehorse06/resume.pdf)
 
 ## Desired Role:
 > If this position involves using Rust, it would be a plus.
