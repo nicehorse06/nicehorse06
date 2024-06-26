@@ -1,6 +1,7 @@
 # For Recruiter
 
 * [My resume link](https://nicehorse06.github.io/nicehorse06/resume.pdf)
+* Please refrain from calling me without a scheduled appointment. I appreciate your understanding and look forward to connecting at a mutually convenient time.
 
 ## Desired Role:
 * Backend engineer (Python, Golang, Rust)
