@@ -2,11 +2,11 @@
 
 * [My resume link](https://nicehorse06.github.io/nicehorse06/resume.pdf)
 * Please refrain from calling me without a scheduled appointment. I appreciate your understanding and look forward to connecting at a mutually convenient time.
+* If a headhunting company offers to introduce me to a job but ends up disappearing without a response, I will record them on this [list](https://github.com/nicehorse06/nicehorse06/blob/main/silent_headhunters_list.md).
 
 ## Desired Role:
-* Backend engineer (Python, Golang, Rust)
+* Backend engineer (Python, Golang)
   * Also capable as a Full-stack Engineer with frontend development skills.
-* Linux kernel engineer (C, Rust)
 
 ## Expectations of the company
 * Have a backend team.
