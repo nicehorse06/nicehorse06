@@ -5,15 +5,19 @@
 * If a headhunting company offers to introduce me to a job but ends up disappearing without a response, I will record them on this [list](https://github.com/nicehorse06/nicehorse06/blob/main/silent_headhunters_list.md).
 
 ## Desired Role:
-* Backend engineer (Python, Golang)
+* Backend engineer (Python, Golang, Rust)
   * Also capable as a Full-stack Engineer with frontend development skills.
 
-## Expectations of the company
-* Have a backend team.
-* Can participate in good software architecture
-* Use public cloud (AWS, Azure, GCP).
-* Have products with high traffic demand, distributed system, high scalability, high availability.
-* Have a clear salary range.
+## Expectations of the Company
+
+* **Strong Backend Team**: The company should have a dedicated and skilled backend team.
+* **Engagement in Software Architecture**: Opportunities to participate in the design and implementation of robust software architectures.
+* **Public Cloud Utilization**: The company should actively use public cloud platforms like AWS, Azure, or GCP.
+* **Kubernetes Adoption**: Kubernetes should be part of the company's infrastructure.
+* **Has a DevOps Process**: The company should have an established DevOps process.
+* **High-Performance Products**: The company should offer products that demand high traffic capacity, distributed systems, scalability, and high availability.
+* **Transparent Salary Structure**: The company should provide a clear and transparent salary range.
+
 
 ## Nice to Have
 * Work remotely or work in Taipei `(Neihu, Nangang, Xinyi, Songshan preferred)`.
