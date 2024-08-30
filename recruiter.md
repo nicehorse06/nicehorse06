@@ -2,7 +2,7 @@
 
 * [My resume link](https://nicehorse06.github.io/nicehorse06/resume.pdf)
 * Please refrain from calling me without a scheduled appointment. I appreciate your understanding and look forward to connecting at a mutually convenient time.
-* If a headhunting company offers to introduce me to a job but ends up disappearing without a response, I will record them on [the silent headhunters list](https://github.com/nicehorse06/nicehorse06/blob/main/silent_headhunters_list.md).
+* **(ATTENTION)** If a headhunting company offers to introduce me to a job but ends up disappearing without a response, I will record them on [the not Recommended headhunters list](https://github.com/nicehorse06/nicehorse06/blob/main/avoided_headhunters.md).
 
 ## Desired Role:
 * Backend engineer (Python, Golang, Rust, Node.js)
