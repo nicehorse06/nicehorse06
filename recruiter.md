@@ -39,6 +39,8 @@
 * Old traditional industry.
 * Be asked non-work-related personal information before on board.
     * Such as ID numbers, family members.
+* If your company does not meet the standards of my target companies, I will decline any non-technical or irrelevant intelligence tests.
+    * I believe direct interviews are a better way to assess mutual fit.
 * Job description that can not recognize desired company and fit expectations.
 
 ## Desired Company Sample
