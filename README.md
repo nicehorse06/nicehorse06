@@ -17,11 +17,11 @@
 
 
 ## Tech & Career Guides
-* [se-job](https://github.com/nicehorse06/se-job)  
-  * A guide on how to start a career in software engineering  
-* [cs-primer](https://github.com/nicehorse06/cs-primer)  
-  * An introduction to computer science for students  
-* [backend-interview-tips](https://github.com/nicehorse06/backend-job-interview-tips)  
-  * A keyword-based guide to important backend interview topics  
-* [backend-resources](https://github.com/nicehorse06/backend-engineer-resources)  
-  * A collection of learning resources for backend development  
+* [se-job](https://github.com/nicehorse06/se-job)-A guide to starting a software engineering career 
+* [cs-primer](https://github.com/nicehorse06/cs-primer)-Intro to computer science for students
+* [backend-interview-tips](https://github.com/nicehorse06/backend-job-interview-tips)-Key topics for backend interviews
+* [be-resources](https://github.com/nicehorse06/backend-engineer-resources)-Learning resources for backend development
+
+
+
+
