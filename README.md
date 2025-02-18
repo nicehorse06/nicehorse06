@@ -20,7 +20,7 @@
 * [se-job](https://github.com/nicehorse06/se-job) - A guide to starting a software engineering career 
 * [cs-primer](https://github.com/nicehorse06/cs-primer) - Intro to computer science for students
 * [backend-interview-tips](https://github.com/nicehorse06/backend-job-interview-tips) - Key topics for backend interviews
-* [be-resources](https://github.com/nicehorse06/backend-engineer-resources) - Learning resources for backend development
+* [backend-resources](https://github.com/nicehorse06/backend-engineer-resources) - Learning resources for backend development
 
 
 
