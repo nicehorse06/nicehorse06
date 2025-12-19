@@ -45,6 +45,6 @@
 
 ## Desired Company Sample
 > The future career target is competitive software companies in the industry.
-* `World-renowned companies`: Google, Amazon, Microsoft, Nvidia, Canonical, Yahoo, Carousell, etc.
+* `World-renowned companies`: Google, Amazon, Microsoft, Nvidia, Canonical, Yahoo, Carousell, Circle, etc.
 * `Well-known companies in Taiwan`: Trend Micro, MediaTek, NovaTek, Synology, KKCompany, etc.
 * `Competitive startup`: Appier, Skymizer, OneDegree, Pinkoi, GoFreight, iKala, Gogolook, etc.
