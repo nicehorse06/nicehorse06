@@ -5,7 +5,7 @@
 * **(ATTENTION)** If a headhunting company offers to introduce me to a job but ends up disappearing without a response, I will record them on [the not recommended headhunters list](https://github.com/nicehorse06/nicehorse06/blob/main/avoided_headhunters.md).
 
 ## Desired Role:
-* Backend engineer (Python, Golang, Rust, Node.js)
+* Backend engineer (Python, Golang, Rust)
   * Also capable as a Full-stack Engineer with frontend development skills.
 
 ## Expectations of the Company
